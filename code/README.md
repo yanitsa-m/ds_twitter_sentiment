@@ -1,5 +1,5 @@
 
-## Sentiment analysis for Twitter data
+## Perform sentiment analysis on tweets
 
 Read IPython notebooks for the code and explanation. 
 
