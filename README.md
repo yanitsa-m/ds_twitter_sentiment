@@ -1,5 +1,7 @@
 # Perform sentiment analysis on tweets
 
+Part of the Data Manipulation at Scale: Systems and Algorithms course by University of Washington on Coursera.
+
 The assignment has 2 parts:
 
 1. Save a stream of tweets into SQLite database & JSON file
